@@ -1,0 +1,8 @@
+.sobre{
+    height: 15rem;
+    /* background: linear-gradient(354.3deg, #F970A4 -36.91%, #222328 134.22%); */
+    font-family: var(--roboto);
+    padding: 0.3rem 3rem;
+    font-size: 1.5rem;
+    color: #ffffff;
+}

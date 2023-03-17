@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #E50001;
+    padding-left: 1rem;
+    
+    
+}
+
+.header__vl{
+    font-size: 5rem;
+    color: #ffffff;
+}
